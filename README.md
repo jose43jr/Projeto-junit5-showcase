@@ -1,3 +1,5 @@
+![CI](https://github.com/jose43jr/Projeto-junit5-showcase/actions/workflows/maven.yml/badge.svg)
+
 # JUnit 5 Showcase (projeto didático)
 
 Projeto simples para aprender e **apresentar** no GitHub os principais recursos do **JUnit 5**:
