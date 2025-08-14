@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class StringUtilsParamTest {
 
-    // sem aspas internas no 'name' para evitar erro de parsing
+    // sem aspas internas no 'name'
     @ParameterizedTest(name = "[{index}] {0} tem texto?")
     @ValueSource(strings = {"a", " hello ", "0"})
     void hasTextTrue(String value) {
