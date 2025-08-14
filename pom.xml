@@ -16,6 +16,9 @@
     <surefire.version>3.2.5</surefire.version>
     <jacoco.version>0.8.11</jacoco.version>
     <mockito.version>5.12.0</mockito.version>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+
   </properties>
 
   <dependencies>
